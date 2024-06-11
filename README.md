@@ -1,6 +1,6 @@
 # ProtoAL: Interpretable deep active learning with prototypes for medical imaging
 
-This repository implements the ProtoAL model presented in the [ProtoAL: Interpretable deep active learning with prototypes for medical imaging](https://arxiv.org/2404.04736) paper.
+This repository implements the ProtoAL model presented in the [ProtoAL: Interpretable deep active learning with prototypes for medical imaging]([https://arxiv.org/abs/2404.04736) paper.
 
 <center><img src="proposal_fig.jpg" alt="drawing" width="600"/></center>
 
